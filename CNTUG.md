@@ -1,5 +1,9 @@
 # Cloud Native Taiwan User Group
 
+- [Events & slides](communities/CNTUG.md)
+- Location: 台中(Taichung)/台北(Taipei)/台灣(Taiwan)
+- Keywords: `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
+
 ###### `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
 
 ## Table of Contents
