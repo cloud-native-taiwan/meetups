@@ -49,6 +49,20 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 ## 活動投影片
 ### Timeline
+#### 2019/05/25
+- SDN x Cloud Native Meetup #16
+- 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
+- Topics:
+    - 首次 Open Infra 峰會 - 技術委員視角
+        - Speaker: Rico Lin
+        - Slides: 
+    -  好 Rancher 不用嗎？
+        - Speaker: Hazel Shen
+        - Slides: https://speakerdeck.com/line_developers/why-not-use-rancher
+    -  Calico 101
+        - Speaker: 郭靖(Gene Kuo)
+        - Slides: https://docs.google.com/presentation/d/1faHJcIsg6rJSZ4RkEqJQtdG_MTlnHMcwtMOnMSfv4Us/edit?usp=sharing
+
 #### 2019/04/22
 - SDN x Cloud Native Meetup #15
 - 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
