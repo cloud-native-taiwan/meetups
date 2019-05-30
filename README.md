@@ -11,6 +11,7 @@
 - [介紹](#%E4%BB%8B%E7%B4%B9)
 - [活動投影片](#%E6%B4%BB%E5%8B%95%E6%8A%95%E5%BD%B1%E7%89%87)
   - [Timeline](#timeline)
+    - [2019/05/25](#20190525)
     - [2019/04/22](#20190422)
     - [2019/01/22](#20190122)
     - [2018/12/08](#20181208)
@@ -49,6 +50,20 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 ## 活動投影片
 ### Timeline
+#### 2019/05/25
+- SDN x Cloud Native Meetup #16
+- 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
+- Topics:
+    - 首次 Open Infra 峰會 - 技術委員視角
+        - Speaker: Rico Lin
+        - Slides: 
+    - 好 Rancher 不用嗎？
+        - Speaker: Hazel Shen
+        - Slides: https://speakerdeck.com/line_developers/why-not-use-rancher
+    - Calico 101
+        - Speaker: 郭靖(Gene Kuo)
+        - Slides: https://docs.google.com/presentation/d/1faHJcIsg6rJSZ4RkEqJQtdG_MTlnHMcwtMOnMSfv4Us/edit?usp=sharing
+
 #### 2019/04/22
 - SDN x Cloud Native Meetup #15
 - 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
@@ -388,6 +403,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Ceph: Customize APIs for programmatic access with Python
     - Speaker: 陳柏瑜
     - Slides: https://goo.gl/4SMYch
+- Calico 101
+    - Speaker: 郭靖(Gene Kuo)
+    - Slides: https://docs.google.com/presentation/d/1faHJcIsg6rJSZ4RkEqJQtdG_MTlnHMcwtMOnMSfv4Us/edit?usp=sharing
 
 #### Cloud Native
 - Kubeflow 對於機器學習平台的願景
@@ -501,6 +519,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - 非容器平台之服務思考
     - Speaker: 黃秉鈞 Phil Huang
     - Slides: https://speakerdeck.com/pichuang/fei-rong-qi-ping-tai-zhi-fu-wu-si-kao-20190422
+- 好 Rancher 不用嗎？
+    - Speaker: Hazel Shen
+    - Slides: https://speakerdeck.com/line_developers/why-not-use-rancher
 
 #### OpenStack
 - Introduction and OpenStack Trends
@@ -526,6 +547,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - OpenStack 搭上自建的 Kubernetes Operators 大船啟航
     - Speaker: 李孟澤/林毅鑫
     - Slides: https://drive.google.com/open?id=1SkkxM_wWtyD0b5VuHAZsFFMIeM55Fhs9
+- 首次 Open Infra 峰會 - 技術委員視角
+    - Speaker: Rico Lin
+    - Slides: 
 
 #### Misc
 - High Performance Networking
