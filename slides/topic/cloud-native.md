@@ -42,4 +42,4 @@
 | Introduction to Virtual Kubelet | Sravan Rengarajan | TBA |
 | App Operator: The Hidden Persona | Ria Bhatia | TBA |
 | openSUSE Kubic 簡單分享 | Max Huang | [Slide](http://bit.ly/sakana20190628) |
-| How to deal second interface  service discovery and load balancer  in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
+| How to deal second interface service discovery and load balancer in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
