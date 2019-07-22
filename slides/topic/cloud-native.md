@@ -39,7 +39,7 @@
 | 那些年的 OpenShift 3.11 容器技術選型 | 黃秉鈞(Phil Huang) | [Slide](https://speakerdeck.com/pichuang/na-xie-nian-de-openshift-3-dot-11-rong-qi-ping-tai-ji-shu-xuan-xing-20190122)|
 | 非容器平台之服務思考 | 黃秉鈞(Phil Huang) | [Slide](https://speakerdeck.com/pichuang/fei-rong-qi-ping-tai-zhi-fu-wu-si-kao-20190422)|
 | 好 Rancher 不用嗎？ | Hazel Shen | [Slide](https://speakerdeck.com/line_developers/why-not-use-rancher)|
-| Introduction to Virtual Kubelet | Sravan Rengarajan | TBA |
-| App Operator: The Hidden Persona | Ria Bhatia | TBA |
+| Introduction to Virtual Kubelet | Sravan Rengarajan | [KubeCon China 2019](https://www.youtube.com/watch?v=XLGSfyCQ_rU) |
+| App Operator: The Hidden Persona | Ria Bhatia | [KubeCon China 2019](https://www.youtube.com/watch?v=U9a6jOiNY5c) |
 | openSUSE Kubic 簡單分享 | Max Huang | [Slide](http://bit.ly/sakana20190628) |
 | How to deal second interface service discovery and load balancer in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
