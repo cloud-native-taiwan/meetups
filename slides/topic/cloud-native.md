@@ -43,3 +43,4 @@
 | App Operator: The Hidden Persona | Ria Bhatia | [KubeCon China 2019](https://www.youtube.com/watch?v=U9a6jOiNY5c) |
 | openSUSE Kubic 簡單分享 | Max Huang | [Slide](http://bit.ly/sakana20190628) |
 | How to deal second interface service discovery and load balancer in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
+| Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|

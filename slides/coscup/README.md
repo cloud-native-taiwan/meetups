@@ -22,10 +22,9 @@
 | Vikube - a kubernetes operation tool in Vim | 林佑安(C9S) | [Slide](https://speakerdeck.com/c9s/vikube-operate-kubernetes-in-vim)|
 
 ## COSCUP 2019
-(TBD...)
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
 | Service Mesh and Observability around it | 吴晟 Sheng Wu | [Slide](https://docs.google.com/presentation/d/1ol3LfROX_WtVt_rCCHUq2v_2Gnmd5kWL/edit#slide=id.p1)|
-| | | [Slide](https://docs.google.com/presentation/d/1ol3LfROX_WtVt_rCCHUq2v_2Gnmd5kWL/edit#slide=id.p1)|
 | SkyWalking Top Level Project Journey | 吴晟 Sheng Wu | [Slide](https://drive.google.com/file/d/16GcAoNVV0Y5tklv85m238PiviAPaUiS8/view?usp=sharing) | 
+| Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|
