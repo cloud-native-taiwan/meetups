@@ -1,3 +1,5 @@
+<!--  Thanks for sending a pull request! See below for tips! -->
+
 **Before submitting a pull request**, please make sure the following is done:
 
 ### Checklist
