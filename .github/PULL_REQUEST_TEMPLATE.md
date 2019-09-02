@@ -10,7 +10,3 @@
     - [ ] Use the present tense (Also in Pull Request title): "Add feature" not "Added feature"
     - [ ] Use the imperative mood (Also in Pull Request title): "Move cursor to..." not "Moves cursor to..."
     - [ ] Use rebase to squash/fixup dummy/unnecessary commits into only one commit.
-
-
-
-
