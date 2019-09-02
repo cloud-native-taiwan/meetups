@@ -27,7 +27,6 @@
 |-------------|----------------|--------------|
 | 和我一起用全裸容器網路改變世界 | Phil Huang 黃秉鈞 | [Slide](https://speakerdeck.com/pichuang/20190817-container-bare-metal-for-networking) |
 | 我們與 M-CORD Release 的距離 | Wei-Yu Chen | [Slide](https://www.slideshare.net/aweimeow/mcord-release) |
-| Design principle and best practice of failpoint | 杨非 | [Slide]() |
 | QUIC-GO: When HTTP/3 Meets Golang | 張哲彬 | [Slide](https://slides.com/jalex-chang/http-3-leaks#/) |
 | HA Prometheus solution - Thanos | 劉俊成 | [Slide](https://docs.google.com/presentation/d/1KBs4FxYwFL6dsz_JUbPK4ZiKXYjsaLZI21VgVLI54I4/edit?usp=sharing) |
 | Quick and Solid - Baremetal on OpenStack | Rico Lin | [Slide](http://bit.ly/32meoZ0) |
@@ -36,3 +35,5 @@
 | Service Mesh and Observability around it | 吴晟 Sheng Wu | [Slide](https://docs.google.com/presentation/d/1ol3LfROX_WtVt_rCCHUq2v_2Gnmd5kWL/edit#slide=id.p1)|
 | SkyWalking Top Level Project Journey | 吴晟 Sheng Wu | [Slide](https://drive.google.com/file/d/16GcAoNVV0Y5tklv85m238PiviAPaUiS8/view?usp=sharing) | 
 | Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|
+| Design principle and best practice of failpoint  | 杨非 | TBA |
+| SONA: A Telco Driven Cloud Native Network Management Solution  | Jian Li | TBA |

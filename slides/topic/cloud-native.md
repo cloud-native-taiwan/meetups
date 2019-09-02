@@ -44,3 +44,5 @@
 | openSUSE Kubic 簡單分享 | Max Huang | [Slide](http://bit.ly/sakana20190628) |
 | How to deal second interface service discovery and load balancer in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
 | Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|
+| Rancher Pipeline 以及 Kubenetes 在大流量服務的部署經驗 | 萬俊瑋(Wei Wan) | [Slide](https://docs.google.com/presentation/d/1Ic3dKbqZpo9qvp5RROcQAZNLJeqjPoxaUqB9Dm_ucEk/edit?usp=sharing) |
+| 牛牛帶你了解 Kubernetes 網路功能與原理 | HUNG-WEI CHIU (HWCHIU) | [Slide](https://speakerdeck.com/cijie/sdn-x-cloud-native-meetup-number-18) |
