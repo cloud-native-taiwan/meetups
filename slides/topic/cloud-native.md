@@ -11,12 +11,12 @@
 | Write an Operator to handle Kubernetes CRD | 白凱仁(kairen) | [Slide](https://goo.gl/VApnfy)|
 | Service mesh: from Linkerd to Conduit | 施嘉峻 | [Slide](https://goo.gl/8KAzUw)|
 | 說好不洩題的 CKA 準備與技巧分享 | 陳逸凡 & 白凱仁(kairen) | [Slide](https://goo.gl/JtfKbT) [link1](https://goo.gl/nspx7C) [link2](https://goo.gl/GKKo1H)|
-| Kubernetes 101 | 陳大慶(@life1347) | [Slide](https://goo.gl/YpFFsj) [Blog](https://tachingchen.com/tw/) |
+| Kubernetes 101 | 陳大慶(life1347) | [Slide](https://goo.gl/YpFFsj) [Blog](https://tachingchen.com/tw/) |
 | 從入門到放棄，原來 CNI 這麼複雜 | 邱宏瑋(hwchiu) | [Slide](https://goo.gl/3AAC91)|
 | Build the Blockchain as a Service  using Ethereum on Kubernetes | 李麒傑 | [Slide](https://goo.gl/sQM1hs)|
 | Kubeflow 對於機器學習平台的願景 | 林義洋 | [Slide](https://is.gd/WfGdUc) |
 | Serving docker containers in an immutable infrastructure | Niek Palm | [Slide](http://bit.ly/p4cntug)|
-| Kubernetes 與 Docker Registry 的愛恨情仇 | 邱宏瑋(@hwchiu) | [Slide](https://goo.gl/pjnzZJ)|
+| Kubernetes 與 Docker Registry 的愛恨情仇 | 邱宏瑋(hwchiu) | [Slide](https://goo.gl/pjnzZJ)|
 | Kubernetes Scheduler 的兩三事 | 白凱仁(kairen) | [Slide](http://bit.ly/2xkgBZq)|
 | Fission: Functions as a Service for Kubernetes | 陳大慶(life1347) | [Slide](http://bit.ly/2xm7JCu) [Blog](https://tachingchen.com/tw/)|
 | Kubernetes 101 and 201 之一天最好可以講這麼多 | 白凱仁(kairen) | [Slide](http://bit.ly/2un8wir)|
@@ -45,4 +45,4 @@
 | How to deal second interface service discovery and load balancer in Kubernetes | 李孟澤 | [Slide](https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes) |
 | Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|
 | Rancher Pipeline 以及 Kubenetes 在大流量服務的部署經驗 | 萬俊瑋(Wei Wan) | [Slide](https://docs.google.com/presentation/d/1Ic3dKbqZpo9qvp5RROcQAZNLJeqjPoxaUqB9Dm_ucEk/edit?usp=sharing) |
-| 牛牛帶你了解 Kubernetes 網路功能與原理 | HUNG-WEI CHIU (HWCHIU) | [Slide](https://speakerdeck.com/cijie/sdn-x-cloud-native-meetup-number-18) |
+| 牛牛帶你了解 Kubernetes 網路功能與原理 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/load-balancing-101) |
