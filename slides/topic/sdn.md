@@ -17,4 +17,4 @@
 | 如何開發（不）具擴展性的 ONOS 應用程式 - 從商用部署中學到的 12 堂課 | Charles Chan(ONF) | [Slide](https://docs.google.com/presentation/d/1gvaberjdfZco7MwAxnrWp2TomeLURs-8vBS5aQHODiU/)|
 | Calico 101 | 郭靖(Gene Kuo) | [Slide](https://docs.google.com/presentation/d/1faHJcIsg6rJSZ4RkEqJQtdG_MTlnHMcwtMOnMSfv4Us/edit?usp=sharing)|
 | How SDN and Cloud Native Drive Access Network | 陳建豪 (JianHao Chen) | [Slide](https://www.slideshare.net/JianHaoChen1/telco-access-network-with-sdn) |
-| Enhanced Security & Visibility in Microservice Based Architecture | 陳志緯(Nick Chen) | TBA |
+| Enhanced Security & Visibility in Microservice Based Architecture | 陳志緯(Nick Chen) | [Slide](https://speakerdeck.com/pichuang/enhanced-security-and-visibility-in-microservice-based-architecture) |
