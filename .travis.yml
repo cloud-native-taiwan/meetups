@@ -1,0 +1,13 @@
+language: ruby
+os: linux
+sudo: required
+services:
+- docker
+rvm:
+- 2.6.4
+before_install:
+- gem install awesome_bot
+script:
+- awesome_bot slides/timeline/*.md
+- awesome_bot slides/topic/*.md
+- awesome_bot slides/coscup/*.md
