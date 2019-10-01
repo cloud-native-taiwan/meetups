@@ -11,7 +11,7 @@
 | 雲端技術及 SDN 如何改變行動網路帶動 5G 技術發展 | 陳建豪(ONF Ambassador) | [Slide](https://www.slideshare.net/JianHaoChen1/cloud-native-driving-5g-coscup)|
 | CORDVTN: Service networking inside CORD architecture | 陳威祐 | [Slide](https://www.slideshare.net/aweimeow/)|
 | Talk ONAP to Me x Hands On | Kate Hsuan(QCT) | [Slide](https://goo.gl/Y4S6ho) |
-| Tungsten Fabric: Getting Started as an Upstream Contributior | Edward Ting | [Slide](https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributio)|
+| Tungsten Fabric: Getting Started as an Upstream Contributor | Edward Ting | [Slide](https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributior)|
 | MEC/NFV 所見所聞 | 黃秉鈞 | [Slide](https://speakerdeck.com/pichuang/nfv-20181208)|
 | P4 Intro & Demostration | 瞿旭民(Kevin Cyu) | [Slide](https://bit.ly/p4_20181208)|
 | 如何開發（不）具擴展性的 ONOS 應用程式 - 從商用部署中學到的 12 堂課 | Charles Chan(ONF) | [Slide](https://docs.google.com/presentation/d/1gvaberjdfZco7MwAxnrWp2TomeLURs-8vBS5aQHODiU/)|
