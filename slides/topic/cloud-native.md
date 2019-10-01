@@ -46,3 +46,5 @@
 | Kubeflow 進行分散式深度學習訓練之作業排程瓶頸 | 林義洋(yylin) | [Slide](https://speakerdeck.com/yylin1/kubeflow-jin-xing-fen-san-shi-shen-du-xue-xi-xun-lian-zhi-zuo-ye-pai-cheng-ping-jing)|
 | Rancher Pipeline 以及 Kubenetes 在大流量服務的部署經驗 | 萬俊瑋(Wei Wan) | [Slide](https://docs.google.com/presentation/d/1Ic3dKbqZpo9qvp5RROcQAZNLJeqjPoxaUqB9Dm_ucEk/edit?usp=sharing) |
 | 牛牛帶你了解 Kubernetes 網路功能與原理 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/load-balancing-101) |
+| End to End Testing for Kubernetes Cluster| 施柏賢(Pohsien Shih) | [Slide](https://speakerdeck.com/pohsien/cntug-meetup-number-20-end-to-end-testing-for-kubernetes-cluster) |
+| 不會 Go 語言也能寫 K8s Controller 之 Metacontroller |林展逸(Jack Lin) |[Slide](https://speakerdeck.com/chanyilin/k8s-metacontroller) |
