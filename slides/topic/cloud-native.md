@@ -6,9 +6,9 @@
 | Secure Container:Kata Container & gVisor | 顏靖軒(Mango) | [Slide](http://bit.ly/2Aqbs3m)|
 | Kubeflow: Machine Learning Toolkit for Kubernetes | 林義洋 | [Slide](https://goo.gl/F67BJk) |
 | An Introduction to Kubernetes and the CNI | 鄭偉聖 | [Slide](https://goo.gl/46TuLK)|
-| How to contribute to Kubernetes community | 白凱仁(kairen) | [Slide](https://goo.gl/FMB3vn)|
+| How to contribute to Kubernetes community | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/how-to-contribute-to-kubernetes-community)|
 | Kubernetes storage and GlusterFS | 張哲嘉 | [Slide](https://goo.gl/zfj2Ha)|
-| Write an Operator to handle Kubernetes CRD | 白凱仁(kairen) | [Slide](https://goo.gl/VApnfy)|
+| Write an Operator to handle Kubernetes CRD | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/write-an-operator-to-handle-crd)|
 | Service mesh: from Linkerd to Conduit | 施嘉峻 | [Slide](https://goo.gl/8KAzUw)|
 | 說好不洩題的 CKA 準備與技巧分享 | 陳逸凡 & 白凱仁(kairen) | [Slide](https://goo.gl/JtfKbT) [link1](https://goo.gl/nspx7C) [link2](https://goo.gl/GKKo1H)|
 | Kubernetes 101 | 陳大慶(life1347) | [Slide](https://goo.gl/YpFFsj) [Blog](https://tachingchen.com/tw/) |
@@ -17,9 +17,9 @@
 | Kubeflow 對於機器學習平台的願景 | 林義洋 | [Slide](https://is.gd/WfGdUc) |
 | Serving docker containers in an immutable infrastructure | Niek Palm | [Slide](http://bit.ly/p4cntug)|
 | Kubernetes 與 Docker Registry 的愛恨情仇 | 邱宏瑋(hwchiu) | [Slide](https://goo.gl/pjnzZJ)|
-| Kubernetes Scheduler 的兩三事 | 白凱仁(kairen) | [Slide](http://bit.ly/2xkgBZq)|
+| Kubernetes Scheduler 的兩三事 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/kubernetes-scheduler-liang-san-shi)|
 | Fission: Functions as a Service for Kubernetes | 陳大慶(life1347) | [Slide](http://bit.ly/2xm7JCu) [Blog](https://tachingchen.com/tw/)|
-| Kubernetes 101 and 201 之一天最好可以講這麼多 | 白凱仁(kairen) | [Slide](http://bit.ly/2un8wir)|
+| Kubernetes 101 and 201 之一天最好可以講這麼多 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/cntug-kubernetes-workshop)|
 | Kubernetes library 開發實戰 with client-go | 陳允禎(Alex) | [Slide](https://bit.ly/2ujRPVl) [Blog](http://blog.yunchen.tw/)|
 | Locust to Go, Kubernetes to Load | 郭學聰 (Heush-Tsung Kuo) | [Slide](https://hackmd.io/p/r13TRUdrX#/)|
 | yoyodiy 如何繞過系統，自建一套 local k8s cluster | yoyo | [Slide](https://drive.google.com/open?id=1NCzFpSbKiZLoKh2k-ymQ5-wIWe0bS-3O)|
