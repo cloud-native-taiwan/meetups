@@ -8,6 +8,6 @@ rvm:
 before_install:
 - gem install awesome_bot
 script:
-- awesome_bot slides/timeline/*.md
-- awesome_bot slides/topic/*.md
-- awesome_bot slides/coscup/*.md
+- awesome_bot --skip-save-results slides/timeline/*.md 
+- awesome_bot --skip-save-results slides/topic/*.md
+- awesome_bot --skip-save-results slides/coscup/*.md
