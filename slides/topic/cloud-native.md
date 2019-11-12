@@ -52,3 +52,4 @@
 | How we build microservices with Kubernetes & Kafka | 陳允禎(Alex) | [Slide](https://speakerdeck.com/chenyunchen/how-we-build-microservices-with-kubernetes-and-kafka) |
 | K3sup 之極度快速 Set up K3s cluster | Samina Fu | [Slides](https://speakerdeck.com/sufuf3/k3sup-zhi-ji-du-kuai-su-set-up-k3s-cluster) |
 | Deploy Kafka on Kubernetes | David Chang | [Slides](https://chechiachang.github.io/slides/kubernetes-kafka-ha/#/) |
+| How to start contributing to Kubernetes | 章傑智(Jie-Jhih) | [Slide](https://docs.google.com/presentation/d/1AaicD3F80jWnBLgCp8yrCfOXe2hwLwvOIw3iPC_crHs/edit?fbclid=IwAR0q28zgpAYUokI5f5hQN51WgqnVvzET1EpDm8eMhkM69xFUU2Wjoik8GgE)|
