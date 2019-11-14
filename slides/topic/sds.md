@@ -7,3 +7,6 @@
 | Ceph: Customize APIs for programmatic access with Python | 陳柏瑜 | [Slide](https://goo.gl/4SMYch)|
 | 使用 Kubernetes CSI 與 Ceph 實現 Trustzone | 林春旺 | [Slide](https://speakerdeck.com/q60563/shi-yong-kubernetes-csi-yu-ceph-shi-xian-trustzone) |
 | 基於 Ceph RGW 之上層 API Service 開發與效能分析 | 李麒傑(James Li) | [Slide](https://speakerdeck.com/cijie/sdn-x-cloud-native-meetup-number-18) |
+| Ceph Upstream-Dashboard and Orchestrator | Kiefer Chang | Slide |
+| Ceph Upstream-general ceph and deepsea and prom and grafana | Alex Lau | [Slide](https://docs.google.com/presentation/d/1Mz_SLrLjtp4lX0M9OYaG04m2x0rU4t59V-Souct7DCY/edit?usp=drivesdk) |
+
