@@ -12,3 +12,4 @@
 | 熱研究:晴時多雲與颱風的關係 | Rico Lin(OpenStack Heat PTL) | [Slide](http://bit.ly/2M23f6Q)|
 | OpenStack 搭上自建的 Kubernetes Operators 大船啟航 | 李孟澤/林毅鑫 | [Slide](https://drive.google.com/open?id=1SkkxM_wWtyD0b5VuHAZsFFMIeM55Fhs9)|
 | 首次 Open Infra 峰會 - 技術委員視角 | Rico Lin | [Slide](http://bit.ly/2W1EWPH)|
+| 如何貢獻 OpenStack Upstream (開發者與使用者) | Rico Lin | [Slide](https://docs.google.com/presentation/d/1_rYOSgV_JZpD4-uyp44WIVnzKBmo5TS25PCEJcw__Bg/edit?fbclid=IwAR0w53DUVQBDopzRxZ_5EH5wkzaeqidsQ7PXsFySiLXbYFK4g5dmTQYanwY)|
