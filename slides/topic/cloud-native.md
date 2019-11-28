@@ -37,6 +37,8 @@
 | How to impletement Kubernetes Bare metal Load Balancer | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/how-to-impletement-kubernetes-bare-metal-load-balancer)|
 | ELK for applications on Kubernetes | 張哲嘉(David Chang) | [Slide](https://www.slideshare.net/CheChiaChang/elk-for-applications-on-k8s)|
 | 那些年的 OpenShift 3.11 容器技術選型 | 黃秉鈞(Phil Huang) | [Slide](https://speakerdeck.com/pichuang/na-xie-nian-de-openshift-3-dot-11-rong-qi-ping-tai-ji-shu-xuan-xing-20190122)|
+| How We build Kubernetes service by Rancher in LINE | 李飛翔 | [Slide](https://speakerdeck.com/line_developers/how-we-build-kubernetes-service-by-rancher-in-line)|
+| An operator deploys/manages/configures LINE bot atop Kubernetes | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/configures-line-bot-atop-kubernetes)|
 | 非容器平台之服務思考 | 黃秉鈞(Phil Huang) | [Slide](https://speakerdeck.com/pichuang/fei-rong-qi-ping-tai-zhi-fu-wu-si-kao-20190422)|
 | 好 Rancher 不用嗎？ | Hazel Shen | [Slide](https://speakerdeck.com/line_developers/why-not-use-rancher)|
 | Introduction to Virtual Kubelet | Sravan Rengarajan | [KubeCon China 2019](https://www.youtube.com/watch?v=XLGSfyCQ_rU) |
