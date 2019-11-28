@@ -12,6 +12,8 @@
 | CORDVTN: Service networking inside CORD architecture | 陳威祐 | [Slide](https://www.slideshare.net/aweimeow/)|
 | Talk ONAP to Me x Hands On | Kate Hsuan(QCT) | [Slide](https://drive.google.com/file/d/1EQgYFDVJLp85f5BJrp-oEHv7a7gxD_Ty/view?usp=sharing) |
 | Tungsten Fabric: Getting Started as an Upstream Contributor | Edward Ting | [Slide](https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributior)|
+| Towards the Next Generation SDN | Charlet Chan(ONF) | [Slide](https://docs.google.com/presentation/d/1iiSDf_581TVfi0hZXANa-k1gPIg4DNJfsoyEdX3s3bA/edit?usp=drive_openhttps://drive.google.com/open?id=1iiSDf_581TVfi0hZXANa-k1gPIg4DNJfsoyEdX3s3bAouid=0)|
+| Introduction to Application-Based Routing | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/applicationbased-routing)|
 | MEC/NFV 所見所聞 | 黃秉鈞 | [Slide](https://speakerdeck.com/pichuang/nfv-20181208)|
 | P4 Intro & Demostration | 瞿旭民(Kevin Cyu) | [Slide](https://docs.google.com/presentation/d/1xHhrrWzsu3SawG2Zf1nZWs3_l3zHLWch9q04C1B4nog/edit?usp=sharing)|
 | 如何開發（不）具擴展性的 ONOS 應用程式 - 從商用部署中學到的 12 堂課 | Charles Chan(ONF) | [Slide](https://docs.google.com/presentation/d/1gvaberjdfZco7MwAxnrWp2TomeLURs-8vBS5aQHODiU/edit)|
