@@ -1,4 +1,4 @@
-# Contribution Workshop Slides
+# Workshop Slides
 
 ## Table of Contents
 
@@ -6,7 +6,7 @@
 
 ## Contribution Workshop #1
 ###### `2019/11/10`
-共筆連結(Note): https://hackmd.io/@PIVjWO03SWKSSiWYxvduGg/rylzPlBjS
+共筆連結(Collaborative Writing): https://hackmd.io/@CNTUG/workshop-1
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|

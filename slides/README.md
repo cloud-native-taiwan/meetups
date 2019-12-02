@@ -14,5 +14,5 @@ Repository to gather all slides from meetups and conferences.
   - [OpenStack](topic/openstack.md)
   - [Misc](topic/misc.md)
 - [COSCUP](coscup/README.md)
-- [Contribution Workshop](contribution-workshop/README.md)
+- [Workshop](workshop/README.md)
   
