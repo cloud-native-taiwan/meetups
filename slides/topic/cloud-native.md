@@ -15,10 +15,10 @@
 | 從入門到放棄，原來 CNI 這麼複雜 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/introduction-to-cni-container-network-interface)|
 | Build the Blockchain as a Service  using Ethereum on Kubernetes | 李麒傑 | [Slide](https://www.slideshare.net/CiJieLi/build-the-blockchain-as-a-service-using-ethereum-on-kubernetes)|
 | Kubeflow 對於機器學習平台的願景 | 林義洋 | [Slide](https://speakerdeck.com/yylin1/kubeflow-dui-yu-ji-qi-xue-xi-ping-tai-de-yuan-jing) |
-| Serving docker containers in an immutable infrastructure | Niek Palm | [Slide](https://speakerdeck.com/sufuf3/p4intro)|
+| Serving docker containers in an immutable infrastructure | Niek Palm | [Slide](https://040code.github.io/2018/05/26/immutable-infrastructure-taipei/)|
 | Kubernetes 與 Docker Registry 的愛恨情仇 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/integration-kubernetes-with-docker-private-registry)|
 | Kubernetes Scheduler 的兩三事 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/kubernetes-scheduler-liang-san-shi)|
-| Fission: Functions as a Service for Kubernetes | 陳大慶(life1347) | [Slide](https://drive.google.com/open?id=1x8qv5BsPMmkki5aAXs1iqLhs-KkYmgNx) [Blog](https://tachingchen.com/tw/)|
+| Fission: Functions as a Service for Kubernetes | 陳大慶(life1347) | [Slide](https://tachingchen.com/tw/blog/fission-serverless-framework-for-kubernetes-gcpug-41/?fbclid=IwAR3mIkJKein_0OgswnguM8oS0W_PrZY32y-7aMiL3eZ7LCHqNiv1UyVNSf4) [Blog](https://tachingchen.com/tw/)|
 | Kubernetes 101 and 201 之一天最好可以講這麼多 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/cntug-kubernetes-workshop)|
 | Kubernetes library 開發實戰 with client-go | 陳允禎(Alex) | [Slide](https://speakerdeck.com/chenyunchen/kubernetes-library-with-client-go) [Blog](https://blog.yunchen.tw/)|
 | Locust to Go, Kubernetes to Load | 郭學聰 (Heush-Tsung Kuo) | [Slide](https://hackmd.io/@fieliapm/r13TRUdrX?type=slide)|
@@ -28,7 +28,7 @@
 | Raspberry PI x Kubernetes x TensorFlow | 蔡霈萱 | [Slide](https://www.slideshare.net/ssuser8fb0cd/raspberry-pi-x-kubernetes-x-tensorflow)|
 | Kubernetes 網路分析，搞懂所有網路功能以及 CNI 開發 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions)|
 | Vikube - a kubernetes operation tool in Vim | 林佑安(C9S) | [Slide](https://speakerdeck.com/c9s/vikube-operate-kubernetes-in-vim)|
-| Kubernetes Multus CNI 使用與經驗分享 | 李孟澤 | [Slide](https://drive.google.com/file/d/1anJUfeJEA1NdXha8FCzBIIcKDMcSsWCE/view?usp=sharing)|
+| Kubernetes Multus CNI 使用與經驗分享 | 李孟澤 | TBA |
 | LT: Container Platform Information Update | 黃秉鈞 | [Slide](https://speakerdeck.com/pichuang/lt-container-platform-information-update)|
 | Kubernetes Container Runtime Interface | 張哲嘉 | [Slide](https://www.slideshare.net/CheChiaChang/presentation-119161609)|
 | Automatically Renew Certificated In Your Kubernetes Cluster | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/automatically-renew-certificated-in-your-kubernetes-cluster)|
