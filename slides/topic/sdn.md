@@ -22,3 +22,5 @@
 | Enhanced Security & Visibility in Microservice Based Architecture | 陳志緯(Nick Chen) | [Slide](https://speakerdeck.com/pichuang/enhanced-security-and-visibility-in-microservice-based-architecture) |
 | Massive Bare-Metal Operating System Provisioning Improvement |  黃宇強(Date Huang)| [Slides](https://docs.google.com/presentation/d/10CPDuAd8EfPcuKAZ-f2GYnvsMwTtOzaIl_3MizAJMMA/edit?usp=sharing) |
 | SDN演義 - 初出茅廬 (1/n) | 陳建豪 (JianHao Chen) | [Slides](https://drive.google.com/file/d/1aYUoVzlJi-LgNnFFfWbpMzFtmQpyf3B1/view?usp=sharing) |
+| Open vSwitch introduction | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/open-vswitch-introduction) | 
+| Stratum: An Overview | 曾毅(Yi-Tseng) | [Slide](https://docs.google.com/presentation/d/12QmbQccq9VOjom1HQRCqJFXb8ZFw02zaKQAm4Nu1ltw/edit?usp=sharing) |
