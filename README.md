@@ -6,6 +6,7 @@ Cloud Native Computing Taiwan User Group is dedicated to combine community of Cl
 - [Meetup](https://www.meetup.com/CloudNative-Taiwan/)
 - [Facebook](https://fb.cloudnative.tw)
 - [Telegram](https://t.me/cntug)
+- [Youtube](https://www.youtube.com/channel/UCoYY8K9fbfDtTY7m68UCATA)
 - [KKTIX](https://cntug.kktix.cc)
 - [HackMD](https://hackmd.io/@CNTUG)
 - [Meetup 投影片(Slides)](slides/README.md)
