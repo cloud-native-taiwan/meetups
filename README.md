@@ -3,10 +3,11 @@ Cloud Native Computing Taiwan User Group 希望整合台灣雲端相關社群如
 
 Cloud Native Computing Taiwan User Group is dedicated to combine community of Cloud Native related projects such as Kubernetes, OpenStack, Ceph, SDN. We held meetups regularly to share related technologies and promote them. We wish to grow this user group with the help from community members to increase contributions to Cloud Native Platforms in Taiwan. We also wish to promote the concept of "Cloud Native" to enterprise, academic institutes, and governments.
 
-- [CNTUG Meetup](https://www.meetup.com/CloudNative-Taiwan/)
-- [CNTUG Facebook](https://fb.cloudnative.tw)
-- [CNTUG Telegram](t.me/cntug)
-- [CNTUG KKTIX](https://cntug.kktix.cc)
+- [Meetup](https://www.meetup.com/CloudNative-Taiwan/)
+- [Facebook](https://fb.cloudnative.tw)
+- [Telegram](t.me/cntug)
+- [Youtube](https://www.youtube.com/channel/UCoYY8K9fbfDtTY7m68UCATA)
+- [KKTIX](https://cntug.kktix.cc)
 - [活動投影片(Slides)](slides/README.md)
 - Cooperative communities.
   - [SDNDS Taiwan](https://www.facebook.com/groups/sdnds.tw/)
