@@ -10,6 +10,7 @@
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
 | 學習 Kubernetes 不是為了成為 YAML Engineer | 白凱仁(Kyle Bai) | [Slide](https://speakerdeck.com/kairen/xue-xi-kubernetes-bu-shi-wei-liao-cheng-wei-yaml-engineer) |
+| How We Integrate and Develop Private Cloud in LINE | 郭靖(Gene Kuo) | [Slide](https://speakerdeck.com/line_developers/how-we-integrate-and-develop-private-cloud-in-line) |
 
 ## COSCUP 2019
 
