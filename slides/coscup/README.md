@@ -7,12 +7,23 @@
 - [COSCUP 2018](#coscup-2018)
 
 ## COSCUP 2020
+###### `2020/08/01`
+
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
-| 學習 Kubernetes 不是為了成為 YAML Engineer | 白凱仁(Kyle Bai) | [Slide](https://speakerdeck.com/kairen/xue-xi-kubernetes-bu-shi-wei-liao-cheng-wei-yaml-engineer) |
-| How We Integrate and Develop Private Cloud in LINE | 郭靖(Gene Kuo) | [Slide](https://speakerdeck.com/line_developers/how-we-integrate-and-develop-private-cloud-in-line) |
+| OpenStack Governance today and tomorrow | Rico Lin | [Slide](https://docs.google.com/presentation/d/1JMmmVvyhAMUdX6cRxjv99XMjDZDwIYtX3uKftWJ8VRg) [Youtube video](https://youtu.be/PPy3Osy9UNU) |
+| How We Integrate and Develop Private Cloud in LINE | 郭靖(Gene Kuo) | [Slide](https://speakerdeck.com/line_developers/how-we-integrate-and-develop-private-cloud-in-line) [Youtube video](https://youtu.be/P2lL5vq1DLc) |
+| 學習 Kubernetes 不是為了成為 YAML Engineer | 白凱仁(Kyle Bai) | [Slide](https://speakerdeck.com/kairen/xue-xi-kubernetes-bu-shi-wei-liao-cheng-wei-yaml-engineer) [Youtube video](https://youtu.be/8_MTUzdf828) |
+| AWS Firecracker VMM 之 大熱天捲起袖子動手玩 | Ernest Chiang | [Slide](https://www.ernestchiang.com/zh/posts/2020/2020-08-01-playing-with-firecracker/) [Youtube video](https://youtu.be/zBoEG8p1iX8) |
+| KubeInfra-as Code (KIaC) for easy reusability and testability | Hin Lam | TBA [Youtube video](https://youtu.be/w8ET1Hh2DFY) |
+| Operator SDK 帶你玩轉 Kubernetes | David Kuo | [Slide](https://speakerdeck.com/david50407/operator-sdk-dai-ni-wan-zhuan-kubernetes) [Youtube video](https://youtu.be/A_p1DtcsjJI) |
+| Dynamic Jenkins agent on Kubernetes | Rico(@RicoToothless) | [Slide](https://docs.google.com/presentation/d/1Kh3GZRYhioeGA8DFo4f4YM3aDQseM4UtTCfw_os4osc/edit?usp=sharing) [Youtube video](https://youtu.be/suh5BbPpwVE) [Demo project](https://github.com/RicoToothless/coscup-jenkins-demo) [Demo Jenkins Shared Library](https://github.com/RicoToothless/coscup-jenkins-demo-library) |
+| KEDA - Kubernetes Event Driven Auto-Scaling 簡單上手 | 林承翰 | [Slide](https://drive.google.com/file/d/19S7hIJCo6ATDEuvX7zOeHReMLnyQf7b2/view?fbclid=IwAR1qR97DvUdBcIhWAqp-nMTQRK87RHKyNWQS80V3flBsHP2tRToSCqi6Duw) [Youtube video](https://youtu.be/I2qxT4vYPp4) |
+| 在邊緣上的 Kubernetes | Stevennick | [Slide](https://www.slideshare.net/stevennick/kubernetes-on-the-edge-k8s) [Youtube video](https://youtu.be/_u_fOyIJjgI) [Project page](https://itrix-edge.github.io/) |
+| SDN x Cloud Native 開源專案如何改變電信商及資料中心 | JianHao | [Slide](https://www.slideshare.net/JianHaoChen1/how-sdn-x-cloud-native-change-the-telco) [Youtube video](https://youtu.be/SczihlBe9Tg) [Project - SEBA](https://github.com/opencord/seba) [Project - VOLTHA](https://github.com/opencord/voltha) [Project - SONiC](https://github.com/Azure/SONiC)|
 
 ## COSCUP 2019
+###### `2019/08/17`
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
@@ -30,6 +41,7 @@
 | SONA: A Telco Driven Cloud Native Network Management Solution  | Jian Li | TBA |
 
 ## COSCUP 2018
+###### `2018/08/11`
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
