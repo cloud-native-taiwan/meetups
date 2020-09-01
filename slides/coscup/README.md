@@ -9,6 +9,8 @@
 ## COSCUP 2020
 ###### `2020/08/01`
 
+COSCUP 2020 Agenda: https://coscup.org/2020/zh-TW/agenda
+
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
 | OpenStack Governance today and tomorrow | Rico Lin | [Slide](https://docs.google.com/presentation/d/1JMmmVvyhAMUdX6cRxjv99XMjDZDwIYtX3uKftWJ8VRg) [Youtube video](https://youtu.be/PPy3Osy9UNU) |
@@ -24,6 +26,8 @@
 
 ## COSCUP 2019
 ###### `2019/08/17`
+
+COSCUP 2019 Agenda: https://coscup.org/2019/programs/
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
@@ -42,6 +46,8 @@
 
 ## COSCUP 2018
 ###### `2018/08/11`
+
+COSCUP 2018 Agenda: https://coscup.org/2018/tracks/sdn
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
