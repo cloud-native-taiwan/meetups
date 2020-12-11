@@ -57,3 +57,4 @@
 | How to start contributing to Kubernetes | 章傑智(Jie-Jhih) | [Slide](https://docs.google.com/presentation/d/1AaicD3F80jWnBLgCp8yrCfOXe2hwLwvOIw3iPC_crHs/edit?fbclid=IwAR0q28zgpAYUokI5f5hQN51WgqnVvzET1EpDm8eMhkM69xFUU2Wjoik8GgE)|
 | How to achieve canary deployment on Kubernetes | John Chen(Grindr) | [Slides]( https://www.slideshare.net/ssuserd7d9ae/how-to-achieve-canary-deployment-on-kubernetes) |
 | Lightening Talk: Kubeflow Multi-user with Istio authn/authz | Jack Lin | [Slides](https://speakerdeck.com/chanyilin/authz) |
+| 一言難盡的關係：Kubernetes 和 Docker 之線上討論分享會 | Pichuange, Hwchiu, Smalltown, GeneKuo | [Slides](https://www2.slideshare.net/hongweiqiu/the-relationship-between-docker-kubernetes-and-cri) |
