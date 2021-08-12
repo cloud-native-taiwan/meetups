@@ -2,9 +2,27 @@
 
 ## Table of Contents
 
+- [COSCUP 2021](#coscup-2021)
 - [COSCUP 2020](#coscup-2020)
 - [COSCUP 2019](#coscup-2019)
 - [COSCUP 2018](#coscup-2018)
+
+## COSCUP 2021
+###### `2021/08/01`
+
+COSCUP 2021 Agenda: https://coscup.org/2021/zh-TW/session
+
+| Topic       | Speaker        | Links |
+|-------------|----------------|--------------|
+| Opening - Cloud Native Computing | 翟本喬(Ben Jai) | **TBA** [Slide](https://docs.google.com/presentation/d/1FApoCPP5H9qoELFidh_Dq31s2bFNuvBjfEM61DdU1RQ/edit) [Youtube video](@@@@) | 
+| 從零打造自己的 Cloud Native Home Lab | 郭靖(Gene Kuo) | **TBA** [Slide](@@@@) [Youtube video](@@@@) |
+| Cloud Infrastructure Interconnect with Wireguard and OSPF | 黃宇強 | **TBA** [Slide](@@@@) [Youtube video](@@@@) |
+| 自動化 AIoT 機器學習循環 - Kubernetes 結合 KubeEdge 從雲端擴展至邊緣 | 蕭亦程(Yi-Cheng) | **TBA** [Slide](@@@@) [Youtube video](@@@@) |
+| Empower your Kubernetes with Service Mesh + Distributed Tracing | 許浩鳴(Ming) | **TBA** [Slide](@@@@) [Youtube video](@@@@) |
+| The evolution of Apache APISIX | 罗泽轩(Zexuan Luo) | **TBA** [Slide](@@@@) [Youtube video](@@@@) |
+| Kosko - 改用 JavaScript 來管理 Kubernetes YAML | 陳嘉輝 | **TBA** [Slide](https://speakerdeck.com/hazel910159/gai-yong-javascript-lai-guan-li-kubernetes-yaml) [Youtube video](@@@@) |
+| 雲端平臺維運經驗淺談 | Max Huang | **TBA** [Slide](https://docs.google.com/presentation/d/1MWpYUbO2MCQ9Yd-QRSEJ-oqvd6cJgFyJ3pKe6Q3puPU/edit#slide=id.p) [Youtube video](@@@@) |
+| Introduction to Apache Submarine | 羅文志(lowc1012) | **TBA** [Slide](https://speakerdeck.com/hazel910159/introduction-to-apache-submarine) [Youtube video](@@@@) |
 
 ## COSCUP 2020
 ###### `2020/08/01`
