@@ -14,16 +14,17 @@ COSCUP 2021 Agenda: https://coscup.org/2021/zh-TW/session
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
-| Opening - Cloud Native Computing | 翟本喬(Ben Jai) | [Slide](https://docs.google.com/presentation/d/1FApoCPP5H9qoELFidh_Dq31s2bFNuvBjfEM61DdU1RQ/edit) | 
-| 從零打造自己的 Cloud Native Home Lab | 郭靖(Gene Kuo) | **TBA** |
-| Cloud Infrastructure Interconnect with Wireguard and OSPF | 黃宇強 | [Slide](https://speakerdeck.com/tjjh89017/cloud-infrastructure-interconnect-with-wireguard-and-ospf) |
-| 自動化 AIoT 機器學習循環 - Kubernetes 結合 KubeEdge 從雲端擴展至邊緣 | 蕭亦程(Yi-Cheng) | **TBA**  |
-| Empower your Kubernetes with Service Mesh + Distributed Tracing | 許浩鳴(Ming) | **TBA** |
-| The evolution of Apache APISIX | 罗泽轩(Zexuan Luo) | **TBA**  |
-| Kosko - 改用 JavaScript 來管理 Kubernetes YAML | 陳嘉輝 | [Slide](https://speakerdeck.com/hazel910159/gai-yong-javascript-lai-guan-li-kubernetes-yaml) |
-| 雲端平臺維運經驗淺談 | Max Huang |[Slide](https://docs.google.com/presentation/d/1MWpYUbO2MCQ9Yd-QRSEJ-oqvd6cJgFyJ3pKe6Q3puPU/edit#slide=id.p) |
-| Introduction to Apache Submarine | 羅文志(lowc1012) | [Slide](https://speakerdeck.com/hazel910159/introduction-to-apache-submarine) |
+| Opening - Cloud Native Computing | 翟本喬(Ben Jai) | [Slide](https://docs.google.com/presentation/d/1FApoCPP5H9qoELFidh_Dq31s2bFNuvBjfEM61DdU1RQ/edit) / [Youtube video](https://youtu.be/_Nm0elpLbMU)| 
+| 從零打造自己的 Cloud Native Home Lab | 郭靖(Gene Kuo) | [Slide](https://docs.google.com/presentation/d/1l0UtbYjq9L7yQ7JysyUhEWo-5qHZINZhDlC1L-KA75k/edit) / [Youtube video](https://youtu.be/8WzkKgbDqAc)|
+| Cloud Infrastructure Interconnect with Wireguard and OSPF | 黃宇強 | [Slide](https://speakerdeck.com/tjjh89017/cloud-infrastructure-interconnect-with-wireguard-and-ospf) / [Youtube video](https://youtu.be/mVvhxtMRwAc)|
+| 自動化 AIoT 機器學習循環 - Kubernetes 結合 KubeEdge 從雲端擴展至邊緣 | 蕭亦程(Yi-Cheng) | [Slide](https://github.com/Yi-Cheng0101/End-to-end_Automated_AIoT_System_On_a_Cloud-edge_Integrated/blob/master/COSCUP_2021.pdf) / [Youtube video](https://youtu.be/RtabHrNuUDY) |
+| Empower your Kubernetes with Service Mesh + Distributed Tracing | 許浩鳴(Ming) | [Slide](https://speakerdeck.com/line_developers_tw/empower-your-kubernetes-with-service-mesh-plus-distributed-tracing) / [Youtube video](https://youtu.be/Z5iNM5jooAk) |
+| The evolution of Apache APISIX | 罗泽轩(Zexuan Luo) | [Slide](https://speakerdeck.com/spacewander/the-evolution-of-apache-apisix) / [Youtube video](https://youtu.be/CZPRCuZiy1A) |
+| Kosko - 改用 JavaScript 來管理 Kubernetes YAML | 陳嘉輝 | [Slide](https://speakerdeck.com/hazel910159/gai-yong-javascript-lai-guan-li-kubernetes-yaml) / [Youtube video](https://youtu.be/stnz7zn5MRc)|
+| 雲端平臺維運經驗淺談 | Max Huang |[Slide](https://docs.google.com/presentation/d/1MWpYUbO2MCQ9Yd-QRSEJ-oqvd6cJgFyJ3pKe6Q3puPU/edit#slide=id.p) / [Youtube video](https://youtu.be/x0qw1dnlszA)|
+| Introduction to Apache Submarine | 羅文志(lowc1012) | [Slide](https://speakerdeck.com/hazel910159/introduction-to-apache-submarine) / [Youtube video](https://youtu.be/2nZx-bRqVWo)|
 
+---
 ## COSCUP 2020
 ###### `2020/08/01`
 
@@ -42,6 +43,7 @@ COSCUP 2020 Agenda: https://coscup.org/2020/zh-TW/agenda
 | 在邊緣上的 Kubernetes | Stevennick | [Slide](https://www.slideshare.net/stevennick/kubernetes-on-the-edge-k8s) [Youtube video](https://youtu.be/_u_fOyIJjgI) [Project page](https://itrix-edge.github.io/) |
 | SDN x Cloud Native 開源專案如何改變電信商及資料中心 | JianHao | [Slide](https://www.slideshare.net/JianHaoChen1/how-sdn-x-cloud-native-change-the-telco) [Youtube video](https://youtu.be/SczihlBe9Tg) [Project - SEBA](https://github.com/opencord/seba) [Project - VOLTHA](https://github.com/opencord/voltha) [Project - SONiC](https://github.com/Azure/SONiC)|
 
+---
 ## COSCUP 2019
 ###### `2019/08/17`
 
@@ -62,6 +64,7 @@ COSCUP 2019 Agenda: https://coscup.org/2019/programs/
 | Design principle and best practice of failpoint  | 杨非 | TBA |
 | SONA: A Telco Driven Cloud Native Network Management Solution  | Jian Li | TBA |
 
+---
 ## COSCUP 2018
 ###### `2018/08/11`
 
