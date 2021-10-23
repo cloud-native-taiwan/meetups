@@ -5,7 +5,7 @@
 | Introduction and OpenStack Trends | 曾柏凱 & 郭靖(iGene) | [Slide](https://docs.google.com/presentation/d/1uvW79MTGTsid4cG2uqQY6GLfoRta4ODBRF89BzFIAPk/edit#slide=id.p4)|
 | How to get involved into OpenStack Community | 郭靖(iGene) | [Slide](https://docs.google.com/presentation/d/1vBAhqwAXwX_kVKpYjGPk3R4aavgrtq_7-Mm6g6WIJMk/edit#slide=id.p4)|
 | How to integrate Kubernetes in OpenStack: You need to know these project | 李孟澤 & 白凱仁(kairen) | [Slide](https://www.slideshare.net/MengZeLi4/how-to-integrate-kubernetes-in-openstack)|
-| How to contribute to OpenStack (codes) | Rico Lin(OpenStack Heat PTL) | [Slide](https://etherpad.openstack.org/p/cntug-openstack)|
+| How to contribute to OpenStack (codes) | Rico Lin(OpenStack Heat PTL) | [Slide](https://etherpad.opendev.org/p/cntug-openstack)|
 | 讓開源雲端與產品接軌: Take the Advantage and connect upstream to downstream | Rico Lin(OpenStack Heat PTL) | [Slide](https://www.slideshare.net/GuanYuLin1/take-the-advantage-and-connect-upstream-to-downstream)|
 | OpenStack 101 | 陳彥勝 | [Slide1](https://drive.google.com/file/d/18qgHiwOE9Kn-5J6IH2M_5YYGDV42qo_L/view) [Slide2](https://drive.google.com/file/d/1dVDDnqBmxeU5YQ5mCqzyBBjL4ONAA0ib/view) |
 | Deploy Kubernetes on OpenStack using Kubespray | 郭靖(iGene) | [Slide](https://hackmd.io/s/SJg3aZctf)|
