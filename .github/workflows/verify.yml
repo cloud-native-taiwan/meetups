@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@473e4d8fe5dd94ee328fdfca9f8c9c7afc9dae5e
+        with:
+          ruby-version: "3.0"
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      # Runs a single command using the runners shell
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      # Runs a set of commands using the runners shell
+      - name: Run URL check
+        run: |
+          awesome_bot --allow-redirect --skip-save-results slides/timeline/*.md -w tachingchen.com
+          awesome_bot --allow-redirect --skip-save-results slides/topic/*.md -w tachingchen.com
+          awesome_bot --allow-redirect --skip-save-results slides/coscup/*.md
+
