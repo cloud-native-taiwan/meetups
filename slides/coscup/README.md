@@ -53,7 +53,7 @@ COSCUP 2019 Agenda: https://coscup.org/2019/programs/
 |-------------|----------------|--------------|
 | 和我一起用全裸容器網路改變世界 | Phil Huang 黃秉鈞 | [Slide](https://speakerdeck.com/pichuang/20190817-container-bare-metal-for-networking) |
 | 我們與 M-CORD Release 的距離 | Wei-Yu Chen | [Slide](https://www.slideshare.net/aweimeow/mcord-release) |
-| QUIC-GO: When HTTP/3 Meets Golang | 張哲彬 | [Slide](https://slides.com/jalex-chang/http-3-leaks#/) |
+| QUIC-GO: When HTTP/3 Meets Golang | 張哲彬 | [Slide](https://slides.com/jalex-chang/http-3-quic) |
 | HA Prometheus solution - Thanos | 劉俊成 | [Slide](https://docs.google.com/presentation/d/1KBs4FxYwFL6dsz_JUbPK4ZiKXYjsaLZI21VgVLI54I4/edit?usp=sharing) |
 | Quick and Solid - Baremetal on OpenStack | Rico Lin | [Slide](https://docs.google.com/presentation/d/1QPD-2rZD6A7hGK_msi4ovYuocQPObDwbaoT4cDBnrYk/edit) |
 | Rancher Pipeline 使用經驗分享 | 萬俊瑋 | [Slide](https://drive.google.com/file/d/1FyuAaI4BsNAVBr29lIf25BzbE2WqrZ-a/view) |

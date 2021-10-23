@@ -10,7 +10,7 @@
 | Kubernetes storage and GlusterFS | 張哲嘉 | [Slide](https://www.slideshare.net/CheChiaChang/k8s-storageglusterfs20180210)|
 | Write an Operator to handle Kubernetes CRD | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/write-an-operator-to-handle-crd)|
 | Service mesh: from Linkerd to Conduit | 施嘉峻 | [Slide](https://www.slideshare.net/ChiaChunShih/service-mesh-from-linkerd-to-conduit-cloud-native-taiwan-meetup)|
-| 說好不洩題的 CKA 準備與技巧分享 | 陳逸凡 & 白凱仁(kairen) | [Slide](https://www.slideshare.net/AlfieChen6/how-to-prepare-for-cka-exam) [link1](https://drive.google.com/drive/folders/1CAxYDkKciuWB17YebgMCmans1NZwlJ_y?usp=sharing) [link2](https://docs.google.com/presentation/d/1JcKCqEuLI5RBUs2KB4Tuf_7FBOl86JmVdOd41MMChCk/edit#slide=id.p4)|
+| 說好不洩題的 CKA 準備與技巧分享 | 陳逸凡 & 白凱仁(kairen) | [Slide](https://www.slideshare.net/AlfieChen6/how-to-prepare-for-cka-exam) [link1](https://docs.google.com/presentation/d/1JcKCqEuLI5RBUs2KB4Tuf_7FBOl86JmVdOd41MMChCk/edit#slide=id.p4)|
 | Kubernetes 101 | 陳大慶(life1347) | [Slide](https://github.com/life1347/k8s-tutorial) [Blog](https://tachingchen.com/tw/) |
 | 從入門到放棄，原來 CNI 這麼複雜 | 邱宏瑋(hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/introduction-to-cni-container-network-interface)|
 | Build the Blockchain as a Service  using Ethereum on Kubernetes | 李麒傑 | [Slide](https://www.slideshare.net/CiJieLi/build-the-blockchain-as-a-service-using-ethereum-on-kubernetes)|
@@ -20,7 +20,7 @@
 | Kubernetes Scheduler 的兩三事 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/kubernetes-scheduler-liang-san-shi)|
 | Fission: Functions as a Service for Kubernetes | 陳大慶(life1347) | [Slide](https://tachingchen.com/tw/blog/fission-serverless-framework-for-kubernetes-gcpug-41/?fbclid=IwAR3mIkJKein_0OgswnguM8oS0W_PrZY32y-7aMiL3eZ7LCHqNiv1UyVNSf4) [Blog](https://tachingchen.com/tw/)|
 | Kubernetes 101 and 201 之一天最好可以講這麼多 | 白凱仁(kairen) | [Slide](https://speakerdeck.com/kairen/cntug-kubernetes-workshop)|
-| Kubernetes library 開發實戰 with client-go | 陳允禎(Alex) | [Slide](https://speakerdeck.com/chenyunchen/kubernetes-library-with-client-go) [Blog](https://blog.yunchen.tw/)|
+| Kubernetes library 開發實戰 with client-go | 陳允禎(Alex) | [Slide](https://speakerdeck.com/chenyunchen/kubernetes-library-with-client-go) [Blog](https://yunchen.tw/)|
 | Locust to Go, Kubernetes to Load | 郭學聰 (Heush-Tsung Kuo) | [Slide](https://hackmd.io/@fieliapm/r13TRUdrX?type=slide)|
 | yoyodiy 如何繞過系統，自建一套 local k8s cluster | yoyo | [Slide](https://drive.google.com/file/d/1NCzFpSbKiZLoKh2k-ymQ5-wIWe0bS-3O/view?usp=drive_open)|
 | 一鍵部署 Kubernetes HA + Self-hosted Cluster | 洪瓏軒 | [Slide](https://docs.google.com/presentation/d/1DN4-7x9X3WR6LKEREVZ_Py5ZNKf3Sz882J73_YsG6LM/edit)|
@@ -53,7 +53,7 @@
 | 分享如何在 GitHub 上加入 Kubernetes 組織 | 章傑智(Jie-Jhih) | [Slide](https://docs.google.com/presentation/d/1jayjXIuKI1XzIw1DXJMxuiV9824pSZSWjPw8naAAHVk/edit?usp=sharing) |
 | How we build microservices with Kubernetes & Kafka | 陳允禎(Alex) | [Slide](https://speakerdeck.com/chenyunchen/how-we-build-microservices-with-kubernetes-and-kafka) |
 | K3sup 之極度快速 Set up K3s cluster | Samina Fu | [Slides](https://speakerdeck.com/sufuf3/k3sup-zhi-ji-du-kuai-su-set-up-k3s-cluster) |
-| Deploy Kafka on Kubernetes | David Chang | [Slides](https://chechiachang.github.io/slides/kubernetes-kafka-ha/#/) |
+| Deploy Kafka on Kubernetes | David Chang | [Slides(失修)](https://chechia.net/categories/kafka/) |
 | How to start contributing to Kubernetes | 章傑智(Jie-Jhih) | [Slide](https://docs.google.com/presentation/d/1AaicD3F80jWnBLgCp8yrCfOXe2hwLwvOIw3iPC_crHs/edit?fbclid=IwAR0q28zgpAYUokI5f5hQN51WgqnVvzET1EpDm8eMhkM69xFUU2Wjoik8GgE)|
 | How to achieve canary deployment on Kubernetes | John Chen(Grindr) | [Slides]( https://www.slideshare.net/ssuserd7d9ae/how-to-achieve-canary-deployment-on-kubernetes) |
 | Lightening Talk: Kubeflow Multi-user with Istio authn/authz | Jack Lin | [Slides](https://speakerdeck.com/chanyilin/authz) |
