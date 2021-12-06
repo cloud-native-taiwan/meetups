@@ -10,7 +10,8 @@ Cloud Native Computing Taiwan User Group is dedicated to combine community of Cl
 - [KKTIX](https://cntug.kktix.cc)
 - [HackMD](https://hackmd.io/@CNTUG)
 - [Meetup 投影片(Slides)](slides/README.md)
-- Cooperative communities.
+- [OCF Donate](https://ocf.neticrm.tw/civicrm/contribute/transact?id=29)
+- Cooperative communities:
   - [SDNDS Taiwan](https://www.facebook.com/groups/sdnds.tw/)
   - [Golang Taiwan](https://www.facebook.com/groups/269001993248363/)
   - [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/)
