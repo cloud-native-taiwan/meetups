@@ -9,7 +9,7 @@
 ## Before the meetup
 若您想以講者身份至社群分享的話，可以根據以下資訊隨時來申請。
 
-- 目前分享可以以`個人`或`團體`來進行分享，只要在 [Facebook](https://fb.cloudnative.tw)、[Telegram](t.me/cntug) 或 [建立 Issue](https://github.com/cloud-native-taiwan/meetups/issues/new) 來聯絡相關負責人即可。
+- 目前分享可以以`個人`或`團體`來進行分享，只要在 [Facebook](https://fb.cloudnative.tw)、[Telegram](https://t.me/cntug) 或 [建立 Issue](https://github.com/cloud-native-taiwan/meetups/issues/new) 來聯絡相關負責人即可。
 - 當與相關負責人取得聯繫時，可先提供想分享的`主題`與`內容摘要`，並和負責人討論`可分享的時間與日期`，之後會由本社群人員進行安排。
 
 ## At the meetup
