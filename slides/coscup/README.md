@@ -2,11 +2,40 @@
 
 ## Table of Contents
 
+- [COSCUP x KCD Taiwan 2022](#coscup-x-kcd-taiwan-2022)
 - [COSCUP 2021](#coscup-2021)
 - [COSCUP 2020](#coscup-2020)
 - [COSCUP 2019](#coscup-2019)
 - [COSCUP 2018](#coscup-2018)
 
+---
+## COSCUP x KCD Taiwan 2022
+###### `2022/07/30`
+
+Agenda:
+- KCD Taiwan 2022 Agenda: https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-coscup-x-kcd-taiwan-2022/
+- COSCUP 2022 Agenda: https://coscup.org/2022/zh-TW/session
+
+YouTube video:
+- KCD Taiwan 2022 x COSCUP  |  Kubernetes Community Days Taiwan 2022: https://youtu.be/8rGhfmbhZqs
+
+
+| Topic       | Speaker        | Links |
+|-------------|----------------|--------------|
+| **[Keynote]:** Using eBPF to improver your Kubernetes cluster | 邱宏瑋 (hwchiu) | [Slide](https://www.slideshare.net/hongweiqiu/ebpf-kubernetes) | 
+| How to Build a Small Hyper Converged Cloud in Hours | 郭靖 (Gene Kuo) | [Slide](https://docs.google.com/presentation/d/1eLe4ljrccPtWGOD0V2e6FsghW4X4C7F0nhqRlembLxc/edit?usp=sharing)| 
+| How to start contributing to Kubernetes Projects? | 傅耀德 (Ader Fu) | [Slide](https://speakerdeck.com/ydfu/how-to-start-contributing-to-kubernetes-projects)|
+| eBPF-based Container Networking | John Lin | [Slide](https://tinyurl.com/ebpf-linux)|
+| Understand Multiple Versions CRD and Conversion Webhook | 蕭人豪 | [Slide](https://docs.google.com/presentation/d/18NlkaD0p56uQHvBLj5z7LFiVxHQbufKeM5Npl9teezs/edit)|
+| Operating Time Series Database in K8s | Che-Chia Chang | [Slide](https://docs.google.com/presentation/d/1PZryGImYRALMJfbEMuf_jPd2P-qzIwDmVd5DgXSuqq0/edit?fbclid=IwAR0fTCtPguiBAU4oe6yTm8Fns9cK8a8qxGn-LTGW1h7XH9uB5jVF8yt5vAI#slide=id.p)|
+| Level Up Application Management Using K8s Operator pattern | Kale Oum Nivrathi | [Slide](https://pretalx.com/coscup-2022/talk/W3AE8E/)|
+| Kubernetes zero-downtime label migration | Una Chen | **TBA** |
+| What is Cloud Native? A Technology or Buzzword? And Cloud Native IT Survey Report | Yiching | [Slide](https://docs.google.com/presentation/d/1sCrxjp_daQ6UnTKZakrzWOsrc-fouLFa_cTCyejmP2g/edit?fbclid=IwAR0EfNjnv-ejLnY7waLgtD2vpjQPzvQ_sXXJrRQ2sXyNL9bfOg-dr4rseUQ#slide=id.g11c8b613871_0_37)|
+| Building Kubernetes cluster the hard way | Tony Yip | [Slide](https://docs.google.com/presentation/d/1CjBiuqcA_Vn5wWZbxyU3l0TIb19OCC2HB9SE4GMLg9s/edit?usp=sharing)|
+| Introduction to Multi-Version CRDs in Longhorn | 蘇璟瑋 (Derek Su) | [Slide](https://docs.google.com/presentation/d/1TQy5iD1GWOpOyPA17cwWhUCxlYsMe9FaF-7M9jqSXzg/mobilepresent?slide=id.p)|
+| **[Keynote]:** State of Kubernetes in 2022  | **co-speaker**: Nikhita Raghunath & Nabarun Pal | [Slide](https://speakerdeck.com/palnabarun/state-of-kubernetes-in-2022) |
+
+---
 ## COSCUP 2021
 ###### `2021/08/01`
 
@@ -14,15 +43,15 @@ COSCUP 2021 Agenda: https://coscup.org/2021/zh-TW/session
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
-| Opening - Cloud Native Computing | 翟本喬(Ben Jai) | [Slide](https://docs.google.com/presentation/d/1FApoCPP5H9qoELFidh_Dq31s2bFNuvBjfEM61DdU1RQ/edit) / [Youtube video](https://youtu.be/_Nm0elpLbMU)| 
-| 從零打造自己的 Cloud Native Home Lab | 郭靖(Gene Kuo) | [Slide](https://docs.google.com/presentation/d/1l0UtbYjq9L7yQ7JysyUhEWo-5qHZINZhDlC1L-KA75k/edit) / [Youtube video](https://youtu.be/8WzkKgbDqAc)|
-| Cloud Infrastructure Interconnect with Wireguard and OSPF | 黃宇強 | [Slide](https://speakerdeck.com/tjjh89017/cloud-infrastructure-interconnect-with-wireguard-and-ospf) / [Youtube video](https://youtu.be/mVvhxtMRwAc)|
-| 自動化 AIoT 機器學習循環 - Kubernetes 結合 KubeEdge 從雲端擴展至邊緣 | 蕭亦程(Yi-Cheng) | [Slide](https://github.com/Yi-Cheng0101/End-to-end_Automated_AIoT_System_On_a_Cloud-edge_Integrated/blob/master/COSCUP_2021.pdf) / [Youtube video](https://youtu.be/RtabHrNuUDY) |
-| Empower your Kubernetes with Service Mesh + Distributed Tracing | 許浩鳴(Ming) | [Slide](https://speakerdeck.com/line_developers_tw/empower-your-kubernetes-with-service-mesh-plus-distributed-tracing) / [Youtube video](https://youtu.be/Z5iNM5jooAk) |
-| The evolution of Apache APISIX | 罗泽轩(Zexuan Luo) | [Slide](https://speakerdeck.com/spacewander/the-evolution-of-apache-apisix) / [Youtube video](https://youtu.be/CZPRCuZiy1A) |
-| Kosko - 改用 JavaScript 來管理 Kubernetes YAML | 陳嘉輝 | [Slide](https://speakerdeck.com/hazel910159/gai-yong-javascript-lai-guan-li-kubernetes-yaml) / [Youtube video](https://youtu.be/stnz7zn5MRc)|
-| 雲端平臺維運經驗淺談 | Max Huang |[Slide](https://docs.google.com/presentation/d/1MWpYUbO2MCQ9Yd-QRSEJ-oqvd6cJgFyJ3pKe6Q3puPU/edit#slide=id.p) / [Youtube video](https://youtu.be/x0qw1dnlszA)|
-| Introduction to Apache Submarine | 羅文志(lowc1012) | [Slide](https://speakerdeck.com/hazel910159/introduction-to-apache-submarine) / [Youtube video](https://youtu.be/2nZx-bRqVWo)|
+| Opening - Cloud Native Computing | 翟本喬(Ben Jai) | [Slide](https://docs.google.com/presentation/d/1FApoCPP5H9qoELFidh_Dq31s2bFNuvBjfEM61DdU1RQ/edit) / [YouTube video](https://youtu.be/_Nm0elpLbMU)| 
+| 從零打造自己的 Cloud Native Home Lab | 郭靖(Gene Kuo) | [Slide](https://docs.google.com/presentation/d/1l0UtbYjq9L7yQ7JysyUhEWo-5qHZINZhDlC1L-KA75k/edit) / [YouTube video](https://youtu.be/8WzkKgbDqAc)|
+| Cloud Infrastructure Interconnect with Wireguard and OSPF | 黃宇強 | [Slide](https://speakerdeck.com/tjjh89017/cloud-infrastructure-interconnect-with-wireguard-and-ospf) / [YouTube video](https://youtu.be/mVvhxtMRwAc)|
+| 自動化 AIoT 機器學習循環 - Kubernetes 結合 KubeEdge 從雲端擴展至邊緣 | 蕭亦程(Yi-Cheng) | [Slide](https://github.com/Yi-Cheng0101/End-to-end_Automated_AIoT_System_On_a_Cloud-edge_Integrated/blob/master/COSCUP_2021.pdf) / [YouTube video](https://youtu.be/RtabHrNuUDY) |
+| Empower your Kubernetes with Service Mesh + Distributed Tracing | 許浩鳴(Ming) | [Slide](https://speakerdeck.com/line_developers_tw/empower-your-kubernetes-with-service-mesh-plus-distributed-tracing) / [YouTube video](https://youtu.be/Z5iNM5jooAk) |
+| The evolution of Apache APISIX | 罗泽轩(Zexuan Luo) | [Slide](https://speakerdeck.com/spacewander/the-evolution-of-apache-apisix) / [YouTube video](https://youtu.be/CZPRCuZiy1A) |
+| Kosko - 改用 JavaScript 來管理 Kubernetes YAML | 陳嘉輝 | [Slide](https://speakerdeck.com/hazel910159/gai-yong-javascript-lai-guan-li-kubernetes-yaml) / [YouTube video](https://youtu.be/stnz7zn5MRc)|
+| 雲端平臺維運經驗淺談 | Max Huang |[Slide](https://docs.google.com/presentation/d/1MWpYUbO2MCQ9Yd-QRSEJ-oqvd6cJgFyJ3pKe6Q3puPU/edit#slide=id.p) / [YouTube video](https://youtu.be/x0qw1dnlszA)|
+| Introduction to Apache Submarine | 羅文志(lowc1012) | [Slide](https://speakerdeck.com/hazel910159/introduction-to-apache-submarine) / [YouTube video](https://youtu.be/2nZx-bRqVWo)|
 
 ---
 ## COSCUP 2020
@@ -32,16 +61,16 @@ COSCUP 2020 Agenda: https://coscup.org/2020/zh-TW/agenda
 
 | Topic       | Speaker        | Links |
 |-------------|----------------|--------------|
-| OpenStack Governance today and tomorrow | Rico Lin | [Slide](https://docs.google.com/presentation/d/1JMmmVvyhAMUdX6cRxjv99XMjDZDwIYtX3uKftWJ8VRg) [Youtube video](https://youtu.be/PPy3Osy9UNU) |
-| How We Integrate and Develop Private Cloud in LINE | 郭靖(Gene Kuo) | [Slide](https://speakerdeck.com/line_developers/how-we-integrate-and-develop-private-cloud-in-line) [Youtube video](https://youtu.be/P2lL5vq1DLc) |
-| 學習 Kubernetes 不是為了成為 YAML Engineer | 白凱仁(Kyle Bai) | [Slide](https://speakerdeck.com/kairen/xue-xi-kubernetes-bu-shi-wei-liao-cheng-wei-yaml-engineer) [Youtube video](https://youtu.be/8_MTUzdf828) |
-| AWS Firecracker VMM 之 大熱天捲起袖子動手玩 | Ernest Chiang | [Slide](https://www.ernestchiang.com/zh/posts/2020/2020-08-01-playing-with-firecracker/) [Youtube video](https://youtu.be/zBoEG8p1iX8) |
-| KubeInfra-as Code (KIaC) for easy reusability and testability | Hin Lam | TBA [Youtube video](https://youtu.be/w8ET1Hh2DFY) |
-| Operator SDK 帶你玩轉 Kubernetes | David Kuo | [Slide](https://speakerdeck.com/david50407/operator-sdk-dai-ni-wan-zhuan-kubernetes) [Youtube video](https://youtu.be/A_p1DtcsjJI) |
-| Dynamic Jenkins agent on Kubernetes | Rico(@RicoToothless) | [Slide](https://docs.google.com/presentation/d/1Kh3GZRYhioeGA8DFo4f4YM3aDQseM4UtTCfw_os4osc/edit?usp=sharing) [Youtube video](https://youtu.be/suh5BbPpwVE) [Demo project](https://github.com/RicoToothless/coscup-jenkins-demo) [Demo Jenkins Shared Library](https://github.com/RicoToothless/coscup-jenkins-demo-library) |
-| KEDA - Kubernetes Event Driven Auto-Scaling 簡單上手 | 林承翰 | [Slide](https://drive.google.com/file/d/19S7hIJCo6ATDEuvX7zOeHReMLnyQf7b2/view?fbclid=IwAR1qR97DvUdBcIhWAqp-nMTQRK87RHKyNWQS80V3flBsHP2tRToSCqi6Duw) [Youtube video](https://youtu.be/I2qxT4vYPp4) |
-| 在邊緣上的 Kubernetes | Stevennick | [Slide](https://www.slideshare.net/stevennick/kubernetes-on-the-edge-k8s) [Youtube video](https://youtu.be/_u_fOyIJjgI) [Project page](https://itrix-edge.github.io/) |
-| SDN x Cloud Native 開源專案如何改變電信商及資料中心 | JianHao | [Slide](https://www.slideshare.net/JianHaoChen1/how-sdn-x-cloud-native-change-the-telco) [Youtube video](https://youtu.be/SczihlBe9Tg) [Project - SEBA](https://github.com/opencord/seba) [Project - VOLTHA](https://github.com/opencord/voltha) [Project - SONiC](https://github.com/Azure/SONiC)|
+| OpenStack Governance today and tomorrow | Rico Lin | [Slide](https://docs.google.com/presentation/d/1JMmmVvyhAMUdX6cRxjv99XMjDZDwIYtX3uKftWJ8VRg) [YouTube video](https://youtu.be/PPy3Osy9UNU) |
+| How We Integrate and Develop Private Cloud in LINE | 郭靖(Gene Kuo) | [Slide](https://speakerdeck.com/line_developers/how-we-integrate-and-develop-private-cloud-in-line) [YouTube video](https://youtu.be/P2lL5vq1DLc) |
+| 學習 Kubernetes 不是為了成為 YAML Engineer | 白凱仁(Kyle Bai) | [Slide](https://speakerdeck.com/kairen/xue-xi-kubernetes-bu-shi-wei-liao-cheng-wei-yaml-engineer) [YouTube video](https://youtu.be/8_MTUzdf828) |
+| AWS Firecracker VMM 之 大熱天捲起袖子動手玩 | Ernest Chiang | [Slide](https://www.ernestchiang.com/zh/posts/2020/2020-08-01-playing-with-firecracker/) [YouTube video](https://youtu.be/zBoEG8p1iX8) |
+| KubeInfra-as Code (KIaC) for easy reusability and testability | Hin Lam | TBA [YouTube video](https://youtu.be/w8ET1Hh2DFY) |
+| Operator SDK 帶你玩轉 Kubernetes | David Kuo | [Slide](https://speakerdeck.com/david50407/operator-sdk-dai-ni-wan-zhuan-kubernetes) [YouTube video](https://youtu.be/A_p1DtcsjJI) |
+| Dynamic Jenkins agent on Kubernetes | Rico(@RicoToothless) | [Slide](https://docs.google.com/presentation/d/1Kh3GZRYhioeGA8DFo4f4YM3aDQseM4UtTCfw_os4osc/edit?usp=sharing) [YouTube video](https://youtu.be/suh5BbPpwVE) [Demo project](https://github.com/RicoToothless/coscup-jenkins-demo) [Demo Jenkins Shared Library](https://github.com/RicoToothless/coscup-jenkins-demo-library) |
+| KEDA - Kubernetes Event Driven Auto-Scaling 簡單上手 | 林承翰 | [Slide](https://drive.google.com/file/d/19S7hIJCo6ATDEuvX7zOeHReMLnyQf7b2/view?fbclid=IwAR1qR97DvUdBcIhWAqp-nMTQRK87RHKyNWQS80V3flBsHP2tRToSCqi6Duw) [YouTube video](https://youtu.be/I2qxT4vYPp4) |
+| 在邊緣上的 Kubernetes | Stevennick | [Slide](https://www.slideshare.net/stevennick/kubernetes-on-the-edge-k8s) [YouTube video](https://youtu.be/_u_fOyIJjgI) [Project page](https://itrix-edge.github.io/) |
+| SDN x Cloud Native 開源專案如何改變電信商及資料中心 | JianHao | [Slide](https://www.slideshare.net/JianHaoChen1/how-sdn-x-cloud-native-change-the-telco) [YouTube video](https://youtu.be/SczihlBe9Tg) [Project - SEBA](https://github.com/opencord/seba) [Project - VOLTHA](https://github.com/opencord/voltha) [Project - SONiC](https://github.com/Azure/SONiC)|
 
 ---
 ## COSCUP 2019
