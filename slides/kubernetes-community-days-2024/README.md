@@ -9,8 +9,8 @@ Agenda:
 | How to start contributing to CNCF projects                                                 | ChengHao Yang          |      |
 | Kubernetes CAP Theorem in Practices                                                        | Mike Hsu               |      |
 | Getting started instrumenting, collecting, and visualizing telemetry data with OpenTelemetry | Shirley Wang           |      |
-| [Lighting Talk] External Secrets Operator 和 Secrets Store CSI Driver 之實務比較             | Abby Chou              | [PDF][./slides/ExternalSecretsOperator和SecretsStoreCSI Driver之實務比較.pdf] |
-| [Lighting Talk] Continuous Deployment on Kubernetes with Argo CD                           | Jenny Lee              | [PDF][./slides/Continuous Deployment on Kubernetes with ArgoCD.pdf] |
+| [Lighting Talk] External Secrets Operator 和 Secrets Store CSI Driver 之實務比較             | Abby Chou              | [PDF](./slides/ExternalSecretsOperator和SecretsStoreCSI Driver之實務比較.pdf) |
+| [Lighting Talk] Continuous Deployment on Kubernetes with Argo CD                           | Jenny Lee              | [PDF](./slides/Continuous Deployment on Kubernetes with ArgoCD.pdf) |
 | k0s: Yet Another Lightweight Kubernetes Distribution?                                      | Cheng Kuo              |      |
 | Building Internal Platforms with Crossplane                                                | Clément Blaise         |      |
 | Argo CD Extension 從 0 到 1 上市能做的工具整備                                                | Wen                 |      |
