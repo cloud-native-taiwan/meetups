@@ -21,7 +21,7 @@ Agenda:
 | 開發與部署輕量無伺 Wasm+LLM 容器                                                             | Hung-Ying Tai          |      |
 | [Lightning Talk] 如何透過 ApplicationSet 建置應用程式                                        | ChiHong Chen                      |      |
 | [Lightning Talk] Protect Your AI Workloads with Confidation Containers                     | Reza Jelveh |      |
-| [Lightning Talk] zerotrust-based Kubernetes operator to protect/quarantine web microservice | Li Chen |      |
+| [Lightning Talk] zerotrust-based Kubernetes operator to protect/quarantine web microservice | Li Chen |  [Slide](https://docs.google.com/presentation/d/11j0orWG8Y3gHxrNifXK06dZcS64V1oTUcL9Ihzx6GMA/edit?usp=sharing)    |
 | Boost Security in Kubernetes with CIS Security Controls and Benchmarks                     | Ader Fu                |      |
 | Rapidly Deploy NFV with Vyos on Kubernetes                                                 | Date Huang             |      |
 | Grafana Alloy 無需設定：多租戶架構+性能優化與無縫回遷體驗                                      | Eric Huang             |      |
