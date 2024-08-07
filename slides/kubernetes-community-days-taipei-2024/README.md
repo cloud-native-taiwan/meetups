@@ -43,7 +43,7 @@
 | [Lightning Talk] Protect Your AI Workloads with Confidation Containers                     | [Reza Jelveh](https://www.linkedin.com/in/rezajelveh/) |      |
 | [Lightning Talk] zerotrust-based Kubernetes operator to protect/quarantine web microservice | [Li Chen](https://www.linkedin.com/in/li-chen-319b8217b/) |  [Slide](https://docs.google.com/presentation/d/11j0orWG8Y3gHxrNifXK06dZcS64V1oTUcL9Ihzx6GMA/edit?usp=sharing)    |
 | Boost Security in Kubernetes with CIS Security Controls and Benchmarks                     | Ader Fu(Yao-De Fu)                | [PDF](./slides/Boost_Security_in_Kubernetes_with_CIS_Security_Controls_and_Benchmarks.pdf) |
-| Rapidly Deploy NFV with Vyos on Kubernetes                                                 | [Date Huang](https://www.linkedin.com/in/yu-chiang-huang-6986a5b2/)             |      |
+| Rapidly Deploy NFV with Vyos on Kubernetes                                                 | [Date Huang](https://www.linkedin.com/in/yu-chiang-huang-6986a5b2/)             | [PDF](./slides/Rapidly_Deploy_NFV_with_VyOS_on_Kubernetes.pdf) |
 | Grafana Alloy 無需設定：多租戶架構+性能優化與無縫回遷體驗                                      | Eric Huang             |      |
 | Optimizing On-Premise Kubernetes Networking with BGP                                       | [Jia-Jun Yeh](https://www.linkedin.com/in/xnumtw/)            |      |
 | KubeVirt如何協助企業混合雲容器化之路                                                         | [Jace Liang](https://www.linkedin.com/in/mjace-1992/)             |      |
