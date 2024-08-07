@@ -1,5 +1,8 @@
 # Kubernetes Community Days Taipei 2024
 
+Date:
+- 20240803 ~ 20240804
+
 Agenda:
 - [CNCGs: Kubernetes Community Days 2024](https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taipei-2024/)
 - [COSCUP 2024](https://coscup.org/2024/zh-TW/session)
