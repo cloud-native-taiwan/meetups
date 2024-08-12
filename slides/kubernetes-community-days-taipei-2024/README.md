@@ -16,18 +16,18 @@
 ## KCD Taipei 2024: Day 1
 #### Date: `2024/08/03`
 
-| TOPIC                                                                                      | Speaker                | Link |
-|--------------------------------------------------------------------------------------------|------------------------|------|
-| How to start contributing to CNCF projects                                                 | [ChengHao Yang](https://www.linkedin.com/in/tico88612/)          |      |
-| Kubernetes CAP Theorem in Practices                                                        | [Mike Hsu](https://www.linkedin.com/in/hung-hsiang-hsu/)               |      |
-| Getting started instrumenting, collecting, and visualizing telemetry data with OpenTelemetry | Shirley           |      |
+| TOPIC                                                                                      | Speaker                | Link                                                                    |
+|--------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------|
+| How to start contributing to CNCF projects                                                 | [ChengHao Yang](https://www.linkedin.com/in/tico88612/)          |                                                                         |
+| Kubernetes CAP Theorem in Practices                                                        | [Mike Hsu](https://www.linkedin.com/in/hung-hsiang-hsu/)               |                                                                         |
+| Getting started instrumenting, collecting, and visualizing telemetry data with OpenTelemetry | Shirley           |                                                                         |
 | [Lighting Talk] External Secrets Operator 和 Secrets Store CSI Driver 之實務比較             | [Abby Chou](https://www.linkedin.com/in/abby-chuo-55482a17b/)              | [PDF](./slides/ExternalSecretsOperator和SecretsStoreCSI_Driver之實務比較.pdf) |
-| [Lighting Talk] Continuous Deployment on Kubernetes with Argo CD                           | Jenny Lee              | [PDF](./slides/Continuous_Deployment_on_Kubernetes_with_ArgoCD.pdf) |
-| k0s: Yet Another Lightweight Kubernetes Distribution?                                      | [Cheng Kuo](https://www.linkedin.com/in/ckuo-tw/)              |      |
-| Building Internal Platforms with Crossplane                                                | [Clément Blaise](https://www.linkedin.com/in/cl%C3%A9ment-blaise-17ba35125/)         |      |
-| Argo CD Extension 從 0 到 1 上市能做的工具整備                                                | Wen                 |      |
-| What We Can Do with Kubernetes Custom Controllers                                          | Zasper Chang           |      |
-| Adaptive Cluster - Kubernetes Operator 5W1H                                                | Raphanus Lo            |      |
+| [Lighting Talk] Continuous Deployment on Kubernetes with Argo CD                           | Jenny Lee              | [PDF](./slides/Continuous_Deployment_on_Kubernetes_with_ArgoCD.pdf)     |
+| k0s: Yet Another Lightweight Kubernetes Distribution?                                      | [Cheng Kuo](https://www.linkedin.com/in/ckuo-tw/)              |                                                                         |
+| Building Internal Platforms with Crossplane                                                | [Clément Blaise](https://www.linkedin.com/in/cl%C3%A9ment-blaise-17ba35125/)  | [PDF](./slides/Building_Internal_Platforms_with_Crossplane.pdf) |
+| Argo CD Extension 從 0 到 1 上市能做的工具整備                                                | Wen                 |                                                                         |
+| What We Can Do with Kubernetes Custom Controllers                                          | Zasper Chang           |                                                                         |
+| Adaptive Cluster - Kubernetes Operator 5W1H                                                | Raphanus Lo            |                                                                         |
 
 ---
 
